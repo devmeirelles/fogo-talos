@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Talos.Application\Talos.Application.csproj" />
+    <ProjectReference Include="..\Talos.Infrastructure\Talos.Infrastructure.csproj" />
+    <ProjectReference Include="..\Talos.Contracts\Talos.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

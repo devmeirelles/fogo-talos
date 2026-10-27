@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Talos.Application\Talos.Application.csproj" />
+    <ProjectReference Include="..\Talos.Domain\Talos.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

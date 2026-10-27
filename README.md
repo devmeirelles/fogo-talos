@@ -99,7 +99,7 @@ O sistema sobe com uma cidade simulada baseada em **Marília-SP**, contendo equi
 
 ## 📋 Roadmap
 
-- [ ] Fase 0: Estrutura da solução
+- [x] Fase 0: Estrutura da solução
 - [ ] Fase 1: Domínio
 - [ ] Fase 2: Persistência e dados de demonstração
 - [ ] Fase 3: API (Inventário)
